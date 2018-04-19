@@ -1,0 +1,5 @@
+venv/
+*.pyc
+.env
+.setvar
+ejemplo1.txt
