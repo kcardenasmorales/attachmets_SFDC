@@ -1,2 +1,2 @@
 # ftp_allianz
-Documentos del cliente: cédula y declaración de renta si la tiene unificados en un pdf y cargados al ftp
+Conexión a salesforce a través de simple_salesforce para consultar documentos y descargarlos a un repositorio local
